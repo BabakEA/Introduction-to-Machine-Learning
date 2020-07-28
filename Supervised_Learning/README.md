@@ -27,7 +27,7 @@ The condos dataset also has square feet, parking, locker, bedrooms. These are th
 
 This is a new word, which you are going to hear it a lot during this lesson. But don’t worry if you don’t know what it is, you already used it! You just didn’t know the term of using it. Yes, the Condos dataset is a labelled dataset or a supervised dataset, and the method that we are using to predict the home price (using this dataset) named supervised learning.
 
-The method that we are using to learn from the targeted dataset to predict the possible target value for a new record named supervised learning. It can be down on the paper using a mathematic equation, mostly algebra’s theory or by creating a specific machine learning model to predict the target value.
+The method that we are using to learn from the targeted dataset to predict the possible target value for a new record named supervised learning. It can be done on the paper using a mathematic equation, mostly algebra’s theory or by creating a specific machine learning model to predict the target value.
 If you are interested in learning supervised learning in deep, you can take a look at the following link:
 
 https://en.wikipedia.org/wiki/Supervised_learning
@@ -45,7 +45,7 @@ Machine learning is a vast ocean in three main categories: supervised learning (
 
 Back to the home pricing, the techniques that we used to learn from the sample dataset and find an appropriate function to predict the condos price named supervised learning.
 The condos price is a continuous number. We can apply the same method to predict categorical items like a binary class (0,1), a character like (class A, Class B, Class C,…) or type of house ( Condos, Detach house, Semi-detached house) and call it classification approach.
-Let take another look at the same dataset and try if we can predict the number of bedrooms. Don’t go far; lets can try machine learning techniques! For example, Logistic regression is a powerful regression classifier similar to the linear regression.
+Let take another look at the same dataset and try if we can predict the number of bedrooms. Don’t go too far; lets can try machine learning techniques! For example, Logistic regression is a powerful regression classifier similar to the linear regression.
 
 From the definition: “An explanation of logistic regression can begin with an explanation of the standard logistic function. The logistic function is a sigmoid function, which takes any real and outputs would be an integer [0,1,2,…]” the integer value is the predicted class!
 
